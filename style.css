@@ -1,4 +1,4 @@
-body {
+.body {
     background-color: beige;
     font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   }
@@ -11,35 +11,32 @@ body {
     color: #fff;
     float: inline;
   }
-  nav ul {
+  .nav {
     display: flex;
     list-style-type: none;
     justify-content: space-around;
   }
   
-  a {
+  .a {
     float: wrap;
     flex-wrap: left;
   }
+
   img {
     max-width: 10%;
     height: auto;
   }
-  h1 {
-    float: left;
-    margin: 5px;
-    padding: 20px;
-  }
-  
-  aside {
+   
+  .card-body {
     font-size: 40px;
     flex: 1;
     font-size: 20px;
-    background-color: aquamarine;
+    background-color: rgba(174, 255, 127, 0.671);
     padding: 20px;
+    margin: 5px;
   }
   
-  footer {
+ footer {
     text-align: center;
     font-size: 25pt;
   }
