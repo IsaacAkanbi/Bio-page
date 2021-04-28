@@ -46,15 +46,10 @@
     nav {
       flex-direction: column;
     }
-    aside {
-      order: 2;
-    }
+    
     header {
       background: #772014;
     }
-    nav,
-    footer {
-      background-color: #bb8588;
-    }
+
   }
   
