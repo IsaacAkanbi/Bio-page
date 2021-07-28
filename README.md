@@ -17,6 +17,11 @@ This project is a revised version of the previously developed professional portf
 
 # Link
 Here are some links
- https://isaacakanbi.github.io/Bio-page/ 
- https://github.com/IsaacAkanbi/Bio-page 
+[deployment-page] https://isaacakanbi.github.io/Bio-page/ 
+[git-repository] https://github.com/IsaacAkanbi/Bio-page 
 
+![Screenshot](./images/aboutme.GIF)
+
+![Screenshot](./images/projects.GIF)
+
+![Screenshot](./images/contact.GIF)
